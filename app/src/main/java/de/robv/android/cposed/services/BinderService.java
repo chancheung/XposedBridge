@@ -1,4 +1,4 @@
-package de.robv.android.xposed.services;
+package de.robv.android.cposed.services;
 
 import android.os.IBinder;
 import android.os.Parcel;
